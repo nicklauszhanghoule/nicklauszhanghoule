@@ -8,7 +8,7 @@
 
 - 📫 Feel free to reach out to me: **n.zhanghoule@gmail.com**
 
-- ⚡ Fun fact **I'm an avid basketball player**
+- ⚡ Fun fact: **I'm an avid basketball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
