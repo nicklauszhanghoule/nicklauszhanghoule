@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Nicklaus</h1>
 <h3 align="center">A highschool student & aspiring software engineer from Canada</h3>
 
-- 🔭 I’m currently working on **LaTeX Resume Generator (Python, Django, LaTeX)**
+- 🔭 I’m currently working on a **LaTeX Resume Generator (Python, Django, LaTeX)**
 
-- 📫 How to reach me **n.zhanghoule@gmail.com**
+- 📫 Feel free to reach out to me: **n.zhanghoule@gmail.com**
 
-- ⚡ Fun fact **I like to play basketball!**
+- ⚡ Fun fact **I'm an avid basketball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
