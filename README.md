@@ -7,8 +7,8 @@
 
 - ⚡ Fun fact **I like to play basketball!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/nicklauszhanghoule" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicklauszhanghoule" height="30" width="40" /></a>
 <a href="https://www.danforthonlinejudge.me/user-home?username=n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="nzh" height="30" width="40" /></a>
 </p>
